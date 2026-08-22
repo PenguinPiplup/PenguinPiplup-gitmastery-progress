@@ -113,5 +113,14 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787377851.748712,
+    "completed_at": 1787377853.550813,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
   }
 ]
